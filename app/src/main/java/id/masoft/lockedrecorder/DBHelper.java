@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder;
+package id.masoft.lockedrecorder;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -7,7 +7,7 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.provider.BaseColumns;
 
-import com.danielkim.soundrecorder.listeners.OnDatabaseChangedListener;
+import id.masoft.lockedrecorder.listeners.OnDatabaseChangedListener;
 
 import java.util.Comparator;
 

@@ -17,12 +17,38 @@
             android:orientation="vertical">
 
             <TextView
+                android:id="@+id/textView3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:textSize="15sp"
-                android:text="@string/link"/>
+                android:layout_marginTop="10dp"
+                android:text="Developed By : vergieet"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="https://github.com/vergieet/SoundRecorder"
+                android:textSize="15sp" />
 
             <!-- Floating Action Button -->
+
+            <TextView
+                android:id="@+id/textView4"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="10dp"
+                android:text="Forked From : dkim0419"
+                android:textSize="20sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="https://github.com/dkim0419/SoundRecorder\nUnder GPL-3.0 License"
+                android:textSize="15sp" />
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"

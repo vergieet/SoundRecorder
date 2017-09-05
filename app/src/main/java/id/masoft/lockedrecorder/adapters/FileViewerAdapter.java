@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder.adapters;
+package id.masoft.lockedrecorder.adapters;
 
 import android.app.AlertDialog;
 import android.content.Context;
@@ -19,14 +19,13 @@ import android.widget.TextView;
 import android.widget.Toast;
 import android.text.format.DateUtils;
 
-import com.danielkim.soundrecorder.DBHelper;
-import com.danielkim.soundrecorder.R;
-import com.danielkim.soundrecorder.RecordingItem;
-import com.danielkim.soundrecorder.fragments.PlaybackFragment;
-import com.danielkim.soundrecorder.listeners.OnDatabaseChangedListener;
+import id.masoft.lockedrecorder.DBHelper;
+import id.masoft.lockedrecorder.R;
+import id.masoft.lockedrecorder.RecordingItem;
+import id.masoft.lockedrecorder.fragments.PlaybackFragment;
+import id.masoft.lockedrecorder.listeners.OnDatabaseChangedListener;
 
 import java.io.File;
-import java.util.Locale;
 import java.util.concurrent.TimeUnit;
 import java.util.ArrayList;
 

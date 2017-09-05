@@ -1,10 +1,10 @@
-package com.danielkim.soundrecorder.listeners;
+package id.masoft.lockedrecorder.listeners;
 
 /**
  * Created by Daniel on 1/3/2015.
  * Listen for add/rename items in database
  */
 public interface OnDatabaseChangedListener{
-    void onNewDatabaseEntryAdded();
+     void onNewDatabaseEntryAdded();
     void onDatabaseEntryRenamed();
 }

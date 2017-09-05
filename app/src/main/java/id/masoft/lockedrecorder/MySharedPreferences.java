@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder;
+package id.masoft.lockedrecorder;
 
 import android.content.Context;
 import android.content.SharedPreferences;

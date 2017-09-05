@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder;
+package id.masoft.lockedrecorder;
 
 import android.os.Parcel;
 import android.os.Parcelable;

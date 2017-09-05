@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder.fragments;
+package id.masoft.lockedrecorder.fragments;
 
 import android.os.Bundle;
 import android.preference.CheckBoxPreference;
@@ -6,10 +6,11 @@ import android.preference.Preference;
 import android.preference.PreferenceFragment;
 import android.support.annotation.Nullable;
 
-import com.danielkim.soundrecorder.BuildConfig;
-import com.danielkim.soundrecorder.MySharedPreferences;
-import com.danielkim.soundrecorder.R;
-import com.danielkim.soundrecorder.activities.SettingsActivity;
+import id.masoft.lockedrecorder.BuildConfig;
+import id.masoft.lockedrecorder.MySharedPreferences;
+
+import id.masoft.lockedrecorder.R;
+import id.masoft.lockedrecorder.activities.SettingsActivity;
 
 /**
  * Created by Daniel on 5/22/2017.

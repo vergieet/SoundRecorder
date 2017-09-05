@@ -1,4 +1,4 @@
-package com.danielkim.soundrecorder;
+package id.masoft.lockedrecorder;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
